@@ -1,1 +1,2 @@
-Hi, This is my Second file for git. Making second modification. modified again
+Hi, This is my Second file for git. Making second modification. modified again.jhgj
+2nd line
